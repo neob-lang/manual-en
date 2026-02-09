@@ -1,1 +1,1 @@
-# The NeoBASIC Programming Language
+# The Neob Programming Language

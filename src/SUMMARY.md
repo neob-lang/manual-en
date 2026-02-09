@@ -1,6 +1,6 @@
-# The NeoBASIC Programming Language
+# The Neob Programming Language
 
-[The NeoBASIC Programming Language](README.md)
+[The Neob Programming Language](README.md)
 
 [Preface](preface.md)
 [Epigraph](epigraph.md)
@@ -16,22 +16,22 @@
 
 # Part II — Imperative Programming
 
-- [NeoBASIC Programs](imperative-programming/neobasic-programs/README.md)
-	- [Sequential Execution](imperative-programming/neobasic-programs/sequential-execution.md)
-	- [Comments and Hashtags](imperative-programming/neobasic-programs/comments-and-hashtags.md)
-	- [Interpreter Directive](imperative-programming/neobasic-programs/interpreter-directive.md)
-	- [Pragma Directives](imperative-programming/neobasic-programs/pragma-directives.md)
-	- [Console and Standard Streams](imperative-programming/neobasic-programs/console-and-standard-streams.md)
-	- [Built-in Data Types](imperative-programming/neobasic-programs/built-in-data-types.md)
-	- [Constants and Magic Values](imperative-programming/neobasic-programs/constants-and-magic-values.md)
-	- [Variables and Mutability](imperative-programming/neobasic-programs/variables-and-mutability.md)
-	- [Atoms and Symbols](imperative-programming/neobasic-programs/atoms-and-symbols.md)
-	- [Type Conversions](imperative-programming/neobasic-programs/type-conversions.md)
-	- [Literal Data](imperative-programming/neobasic-programs/literal-data.md)
-	- [Atom Literals](imperative-programming/neobasic-programs/atom-literals.md)
-	- [ASCII & Unicode Strings](imperative-programming/neobasic-programs/ascii-&-unicode-strings.md)
-	- [String Formatting](imperative-programming/neobasic-programs/string-formatting.md)
-	- [Regular Expression](imperative-programming/neobasic-programs/regular-expression.md)
+- [Neob Programs](imperative-programming/neob-programs/README.md)
+	- [Sequential Execution](imperative-programming/neob-programs/sequential-execution.md)
+	- [Comments and Hashtags](imperative-programming/neob-programs/comments-and-hashtags.md)
+	- [Interpreter Directive](imperative-programming/neob-programs/interpreter-directive.md)
+	- [Pragma Directives](imperative-programming/neob-programs/pragma-directives.md)
+	- [Console and Standard Streams](imperative-programming/neob-programs/console-and-standard-streams.md)
+	- [Built-in Data Types](imperative-programming/neob-programs/built-in-data-types.md)
+	- [Constants and Magic Values](imperative-programming/neob-programs/constants-and-magic-values.md)
+	- [Variables and Mutability](imperative-programming/neob-programs/variables-and-mutability.md)
+	- [Atoms and Symbols](imperative-programming/neob-programs/atoms-and-symbols.md)
+	- [Type Conversions](imperative-programming/neob-programs/type-conversions.md)
+	- [Literal Data](imperative-programming/neob-programs/literal-data.md)
+	- [Atom Literals](imperative-programming/neob-programs/atom-literals.md)
+	- [ASCII & Unicode Strings](imperative-programming/neob-programs/ascii-&-unicode-strings.md)
+	- [String Formatting](imperative-programming/neob-programs/string-formatting.md)
+	- [Regular Expression](imperative-programming/neob-programs/regular-expression.md)
 
 - [Primitive Operators](imperative-programming/primitive-operators/README.md)
 	- [Arithmetic Operators](imperative-programming/primitive-operators/arithmetic-operators.md)
@@ -80,10 +80,10 @@
 # Appendix
 
 - [Language Reference](appendix-language-reference/README.md)
-	- [A - NeoBASIC Grammar](appendix-language-reference/neobasic-grammar.md)
+	- [A - Neob Grammar](appendix-language-reference/neob-grammar.md)
 	- [B - Reserved Keywords](appendix-language-reference/reserved-keywords.md)
 	- [C - Lexical Conventions](appendix-language-reference/lexical-conventions.md)
-	- [D - The Art of NeoBASIC](appendix-language-reference/the-art-of-neobasic.md)
+	- [D - The Art of Neob](appendix-language-reference/the-art-of-neob.md)
 	- [E - ISO Standard C++](appendix-language-reference/iso-standard-cpp.md)
 	- [F - The C++ Standard Library](appendix-language-reference/the-cpp-standard-library.md)
 	- [G - Glossary of Coding](programming-fundamentals/README.md)
